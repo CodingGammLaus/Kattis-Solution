@@ -1,6 +1,12 @@
 import java.util.Scanner;
 
-public class SpongeBob {
+/**
+ * Made by Simon Lindgren
+ * 
+ * Kattis: https://open.kattis.com/problems/afjormun
+ */
+
+public class Afjörmun {
  
     public static void main(String []args) {
     

@@ -1,5 +1,11 @@
 import java.util.Scanner;
 
+/**
+ * Made by Simon Lindgren
+ * 
+ * Kattis: https://open.kattis.com/problems/aaah
+ */
+
 public class Aaah {
     
       public static void main(String []args) {

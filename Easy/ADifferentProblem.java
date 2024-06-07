@@ -1,6 +1,12 @@
 import java.math.BigInteger;
 import java.util.Scanner;
 
+/**
+ * Made by Simon Lindgren
+ * 
+ * Kattis: https://open.kattis.com/problems/different
+ */
+
 class ADifferentProblem {
 
     public static void main(String []args) {

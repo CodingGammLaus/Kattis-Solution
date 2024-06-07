@@ -1,6 +1,12 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
+/**
+ * Made by Simon Lindgren
+ * 
+ * Kattis: https://open.kattis.com/problems/abc
+ */
+
 public class ABC {
 
     public static void main(String []args) {

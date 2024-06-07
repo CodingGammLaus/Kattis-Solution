@@ -2,6 +2,12 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Scanner;
 
+/**
+ * Made by Simon Lindgren
+ * 
+ * Kattis: https://open.kattis.com/problems/officespace
+ */
+
 public class OfficeSpace {
     public static void main(String []args) {
 

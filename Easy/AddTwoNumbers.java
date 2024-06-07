@@ -1,6 +1,12 @@
 import java.util.Scanner;
 
-public class AddingTwoNumbers {
+/**
+ * Made by Simon Lindgren
+ * 
+ * Kattis: https://open.kattis.com/problems/addtwonumbers
+ */
+
+public class AddTwoNumbers {
     
     public static void main(String []args) {
     
@@ -9,8 +15,8 @@ public class AddingTwoNumbers {
         int a = scanner.nextInt();
         int b = scanner.nextInt();
 
-        System.out.println((a + b));
-
         scanner.close();
+
+        System.out.println((a + b));
     }
 }

@@ -1,6 +1,12 @@
 import java.util.Scanner;
 
-public class AddingCorrectly {
+/**
+ * Made by Simon Lindgren
+ * 
+ * Kattis: https://open.kattis.com/problems/addingtrouble
+ */
+
+public class AddingTrouble {
     
     public static void main(String []args) {
     

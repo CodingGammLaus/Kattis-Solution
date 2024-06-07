@@ -1,6 +1,12 @@
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
+/**
+ * Made by Simon Lindgren
+ * 
+ * Kattis: https://open.kattis.com/problems/aboveaverage
+ */
+
 public class AboveAverage {
 
     public static void main(String []args) {

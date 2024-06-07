@@ -1,6 +1,12 @@
 import java.util.Scanner;
 
-public class ASCII2 {
+/**
+ * Made by Simon Lindgren
+ * 
+ * Kattis: https://open.kattis.com/problems/asciikassi2
+ */
+
+public class ASCIIKassi2 {
     
     public static void main(String []args) {
     

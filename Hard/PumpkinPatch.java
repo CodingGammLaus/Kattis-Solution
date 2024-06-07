@@ -1,7 +1,13 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class JackPumpkin {
+/**
+ * Made by Simon Lindgren
+ * 
+ * Kattis: https://open.kattis.com/problems/pumpkinpatch
+ */
+
+public class PumpkinPatch {
 
     public static void main(String []args) {
 

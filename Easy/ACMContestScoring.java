@@ -2,7 +2,13 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
-public class ACMScoring {
+/**
+ * Made by Simon Lindgren
+ * 
+ * Kattis: https://open.kattis.com/problems/acm
+ */
+
+public class ACMContestScoring {
 
     public static void main(String []args) {
     

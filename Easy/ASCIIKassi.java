@@ -1,12 +1,14 @@
-import java.io.File;
-import java.io.FileNotFoundException;
 import java.util.Scanner;
-import java.util.stream.IntStream;
 
-class Test
-{
-    public static void main(String []args) throws FileNotFoundException
-    {
+/**
+ * Made by Simon Lindgren
+ * 
+ * Kattis: https://open.kattis.com/problems/asciikassi
+ */
+
+public class ASCIIKassi {
+    public static void main(String []args) {
+
         Scanner scanner = new Scanner(System.in);
         int number = scanner.nextInt();
 

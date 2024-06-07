@@ -3,6 +3,12 @@ import java.math.BigInteger;
 import java.math.MathContext;
 import java.util.Scanner;
 
+/**
+ * Made by Simon Lindgren
+ * 
+ * Kattis: https://open.kattis.com/problems/areal
+ */
+
 public class ARealChallenge {
     
     public static void main(String []args) {
