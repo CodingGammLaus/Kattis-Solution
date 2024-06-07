@@ -1,7 +1,31 @@
 # Kattis-Solution
 Kattis problems:
 
-99 Problems: <a href="https://open.kattis.com/problems/99problems" target="_blank">Easy</a>
+Easy:
+
+    <a href="https://open.kattis.com/problems/99problems" target="_blank">99 Problems</a>
+    
+    - ./node 0.0.0.0 8080
+    
+    - ./client --tracker 0.0.0.0:8080 --csv data.csv
+
+Medium:
+
+    - ./tracker 8080
+    
+    - ./node 0.0.0.0 8080
+    
+    - ./client --tracker 0.0.0.0:8080 --csv data.csv
+
+Hard:
+
+    - ./tracker 8080
+    
+    - ./node 0.0.0.0 8080
+    
+    - ./client --tracker 0.0.0.0:8080 --csv data.csv
+
+<a href="https://open.kattis.com/problems/99problems" target="_blank">99 Problems</a>
 
 A New Alphabet: <a href="https://open.kattis.com/problems/anewalphabet" target="_blank">Easy</a>
 
