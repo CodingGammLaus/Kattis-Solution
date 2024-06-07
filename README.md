@@ -1,62 +1,46 @@
 # Kattis-Solution
 Kattis problems:
 
-Easy:
-
-    <a href="https://open.kattis.com/problems/99problems" target="_blank">99 Problems</a>
-    
-    - ./node 0.0.0.0 8080
-    
-    - ./client --tracker 0.0.0.0:8080 --csv data.csv
-
-Medium:
-
-    - ./tracker 8080
-    
-    - ./node 0.0.0.0 8080
-    
-    - ./client --tracker 0.0.0.0:8080 --csv data.csv
-
-Hard:
-
-    - ./tracker 8080
-    
-    - ./node 0.0.0.0 8080
-    
-    - ./client --tracker 0.0.0.0:8080 --csv data.csv
+<b>Easy:</b>
 
 <a href="https://open.kattis.com/problems/99problems" target="_blank">99 Problems</a>
 
-A New Alphabet: <a href="https://open.kattis.com/problems/anewalphabet" target="_blank">Easy</a>
+<a href="https://open.kattis.com/problems/anewalphabet" target="_blank">A New Alphabet</a>
 
-A Real Challenge: <a href="https://open.kattis.com/problems/areal" target="_blank">Easy</a>
+<a href="https://open.kattis.com/problems/areal" target="_blank">A Real Challenge</a>
 
-ABC: <a href="https://open.kattis.com/problems/abc" target="_blank">Easy</a>
+<a href="https://open.kattis.com/problems/abc" target="_blank">ABC</a>
 
-ACM Contest Scoring: <a href="https://open.kattis.com/problems/acm" target="_blank">Easy</a>
+<a href="https://open.kattis.com/problems/acm" target="_blank">ACM Contest Scoring</a>
 
-ASCII Kassi 2: <a href="https://open.kattis.com/problems/asciikassi2" target="_blank">Easy</a>
+<a href="https://open.kattis.com/problems/asciikassi2" target="_blank">ASCII Kassi 2</a>
 
-ASCII kassi: <a href="https://open.kattis.com/problems/asciikassi" target="_blank">Easy</a>
+<a href="https://open.kattis.com/problems/asciikassi" target="_blank">ASCII kassi</a>
 
-Aaah!: <a href="https://open.kattis.com/problems/aaah" target="_blank">Easy</a>
+<a href="https://open.kattis.com/problems/aaah" target="_blank">Aaah!</a>
 
-Above Average: <a href="https://open.kattis.com/problems/aboveaverage" target="_blank">Easy</a>
+<a href="https://open.kattis.com/problems/aboveaverage" target="_blank">Above Average</a>
 
-Add Two Numbers: <a href="https://open.kattis.com/problems/addtwonumbers" target="_blank">Easy</a>
+<a href="https://open.kattis.com/problems/addtwonumbers" target="_blank">Add Two Numbers</a>
 
-Adding Trouble: <a href="https://open.kattis.com/problems/addingtrouble" target="_blank">Easy</a>
+<a href="https://open.kattis.com/problems/addingtrouble" target="_blank">Adding Trouble</a>
 
-Afjörmun: <a href="https://open.kattis.com/problems/afjormun" target="_blank">Easy</a>
+<a href="https://open.kattis.com/problems/afjormun" target="_blank">Afjörmun</a>
 
-Apaxiaaaaaaaaaaaans!: <a href="https://open.kattis.com/problems/apaxiaaans" target="_blank">Easy</a>
+<a href="https://open.kattis.com/problems/apaxiaaans" target="_blank">Apaxiaaaaaaaaaaaans!</a>
 
-Arrangement: <a href="https://open.kattis.com/problems/upprodun" target="_blank">Easy</a>
+<a href="https://open.kattis.com/problems/upprodun" target="_blank">Arrangement</a>
 
-Autori: <a href="https://open.kattis.com/problems/autori" target="_blank">Easy</a>
+<a href="https://open.kattis.com/problems/autori" target="_blank">Autori</a>
 
-A Different Problem: <a href="https://open.kattis.com/problems/different" target="_blank">Medium</a>
 
-Office Space: <a href="https://open.kattis.com/problems/officespace" target="_blank">Medium</a>
+<b>Medium:</b>
 
-Pumpkin Patch: <a href="https://open.kattis.com/problems/pumpkinpatch" target="_blank">Hard</a>
+<a href="https://open.kattis.com/problems/different" target="_blank">A Different Problem</a>
+
+<a href="https://open.kattis.com/problems/officespace" target="_blank">Office Space</a>
+
+
+<b>Hard:</b>
+
+<a href="https://open.kattis.com/problems/pumpkinpatch" target="_blank">Pumpkin Patch</a>
