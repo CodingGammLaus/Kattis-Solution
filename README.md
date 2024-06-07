@@ -3,7 +3,7 @@ Kattis problems:
 
 <b>Easy:</b>
 
-<a href="https://open.kattis.com/problems/99problems" target="_blank">99 Problems</a> : <a href="/Medium/NineNineProblems.java" target="_blank">Solution</a>
+<a href="https://open.kattis.com/problems/99problems" target="_blank">99 Problems</a> Link to --> <a href="/Medium/NineNineProblems.java" target="_blank">Solution</a>
 
 <a href="https://open.kattis.com/problems/anewalphabet" target="_blank">A New Alphabet</a>
 
